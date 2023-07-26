@@ -6,3 +6,19 @@ This project is a ReactJS and Material UI-based multi-page web app that enables 
 React JS, JavaScript, API, Material UI, Chart JS
 
 
+
+![Homepage](https://github.com/Anisha700/react-crypto-tracker/assets/78474520/3fcf9b62-3981-4351-a9a3-86abd38f71df)
+
+#Homepage -
+
+
+![Cointable](https://github.com/Anisha700/react-crypto-tracker/assets/78474520/08c34068-b3cc-4fe5-8235-9d170005143d)
+
+#Coin Table-
+
+![Coin-details](https://github.com/Anisha700/react-crypto-tracker/assets/78474520/da041aa4-ff37-47c0-8d9c-02bca914eae4)
+
+#Coin Details-
+
+
+
